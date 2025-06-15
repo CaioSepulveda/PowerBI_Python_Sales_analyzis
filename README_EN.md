@@ -26,7 +26,7 @@ The analysis was based on a fictional sales dataset containing information on or
 ## 📁 Project Files
 
 - `SALES_ANALYZIS.ipynb`: Jupyter notebook with all data processing
-- [Power BI Dashboard](PowerBI_dashboard.pdf) Dashboard with Power BI visualizations
+- [Power BI Dashboard](Ecommerce_Dashboard.pdf) Dashboard with Power BI visualizations
 - `Sales Dataset.csv`: Dataset used
 - Intermediate `.csv` files exported from Python
 
